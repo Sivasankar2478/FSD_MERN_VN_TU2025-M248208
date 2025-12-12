@@ -153,7 +153,7 @@ nodemon index.js
 
 ## 👨‍🎓 Author
 
-**Jeevanantham A**  
+**Sivasankar N**  
 Full Stack MERN Developer  
 
 ---
