@@ -71,7 +71,7 @@ Checkout with delivery charges
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/JeevaCodeMaster/FSD_MERN_VN_Candidate-TR2025-M226239.git
+git clone https://github.com/Sivasankar2478/FSD_MERN_VN_TU2025-M248208
 cd vetrinichiyam-mern-project
 
 2️⃣ Install dependencies
